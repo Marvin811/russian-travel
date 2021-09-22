@@ -1,6 +1,11 @@
 .header__link {
     color:white;
     margin-right: 18px;
+    text-decoration: none;
+    font-family: "Intel";
+    line-height: 28px;;
+    font-size: 24px;
+    font-weight: normal;
 }
 .header__link:last-child{
     margin: 0;
