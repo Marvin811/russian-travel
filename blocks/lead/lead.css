@@ -1,8 +1,10 @@
 .lead {
-    max-width: 984px;
-    max-width: 1005px;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  max-width: 984px;
+  margin: 0 auto;
+  padding-bottom: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  font-family: "Itel", Arial, sans-serif;
 }

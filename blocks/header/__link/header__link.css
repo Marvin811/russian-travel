@@ -6,6 +6,7 @@
     line-height: 28px;;
     font-size: 24px;
     font-weight: normal;
+    font-family: "Itel", Arial, sans-serif;
 }
 .header__link:last-child{
     margin: 0;
