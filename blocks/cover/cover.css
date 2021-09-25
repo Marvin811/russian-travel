@@ -1,3 +1,7 @@
 .cover {
-   
+  max-width: 1184px;
+  width: 1184px;
+  height: 720px;
+  margin: 92px auto 0;
+  box-sizing: border-box;
 }
