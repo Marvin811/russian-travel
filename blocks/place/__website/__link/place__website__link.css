@@ -5,10 +5,10 @@
   font-weight: normal;
   font-size: 18px;
   line-height: 122%;
-  transition: opacity .3s ease-in;
+  transition: opacity 0.3s ease-in;
+  text-decoration-line: underline;
 }
 
 .place__website__link:hover {
-  opacity: .5;
+  opacity: 0.5;
 }
-
