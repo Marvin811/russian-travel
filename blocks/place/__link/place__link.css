@@ -6,8 +6,13 @@
   line-height: 122%;
   transition: opacity 0.3s ease-in;
   text-decoration-line: underline;
+  font-family: "Inter", Arial, sans-serif;
 }
-
 .place__website__link:hover {
   opacity: 0.5;
+}
+@media screen and (max-width: 767px) {
+  .place__link {
+    padding-left: 16px;
+  }
 }
